@@ -1,14 +1,17 @@
 {
   "name": "nteract-commuter-demo",
   "version": "1.0.0",
-  "description": "Isolating a demo for the nteract glitch application",
+  "description": "Demo deployment of commuter as a glitch application",
   "main": "index.js",
   "directories": {
     "example": "examples"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "commuter"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@nteract/commuter": "^5.6.9"
+  }
 }
