@@ -1,0 +1,14 @@
+{
+  "name": "nteract-commuter-demo",
+  "version": "1.0.0",
+  "description": "Isolating a demo for the nteract glitch application",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
