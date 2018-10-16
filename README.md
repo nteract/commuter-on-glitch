@@ -6,6 +6,7 @@ Example notebooks are from the official nteract repository on [Github](https://g
 
 ## Links
 
-- [Live Demo](https://hydrosquall-nteract-commuter-glitch-demo.glitch.me/view/)
+- [Live Demo](https://nteract-commuter-glitch-demo.glitch.me/view/)
 - [Commuter Source Code](https://github.com/nteract/nteract/tree/master/applications/commuter)
 - [nteract Organization](https://nteract.io)
+- [Demo Source Code](https://github.com/nteract/commuter-on-glitch)
